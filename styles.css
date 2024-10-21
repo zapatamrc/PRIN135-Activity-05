@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background: #f8f8ff;
+    color: #252525;
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #001F3F;
+    color: #f8f8ff;
+    border-bottom: 4px solid #EAD8B1;
+}
+
+footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: right;
+    padding: 20px 50px;
+}
